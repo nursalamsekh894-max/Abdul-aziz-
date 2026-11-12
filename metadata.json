@@ -1,0 +1,6 @@
+{
+  "name": "Aziz Reels",
+  "description": "Free public short-form reels & video community app with mobile number login, video upload, like, share, comments, direct messaging, and Play Store install.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
